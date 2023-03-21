@@ -41,7 +41,6 @@ li a:hover {
   }
   
 div {
-    width: 50%;
     border: 15px solid lightcoral;
     background-color: lightcoral; 
     font-family: Arial, Helvetica, sans-serif; 
@@ -50,6 +49,10 @@ div {
     outline-width: thin;
     font-size: 20px;
     display: block;
+    height: max-content;
+}
+div1{
+    width: max-content;
 }
 
 
