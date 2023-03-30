@@ -15,6 +15,7 @@ h1 {
     font-size: 40px; 
  
 }
+
 ul {
     list-style-type: none;
     overflow: hidden;
@@ -22,39 +23,35 @@ ul {
     outline-style: groove ;
     outline-color: black;
     outline-width: thin;   
-  }
-a{
+}
+
+a {
     display: block;
     padding: 10px;
     background-color: lightcoral;
 }
-li a{
+
+li a {
     display: block;
     color: black;
     text-align: center;
     padding: 14px 16px;   
     font-size: 30px;
 }
+
 li a:hover {
     background-color: salmon;
     color: black;
-  }
+}
   
 div {
     border: 15px solid lightcoral;
     background-color: lightcoral; 
     font-family: Arial, Helvetica, sans-serif; 
-    outline-style: groove ;
+    outline-style: groove;
     outline-color: black;
     outline-width: thin;
     font-size: 20px;
     display: block;
     height: max-content;
-}
-div1{
-    width: max-content;
-}
-
-
-
-  
+} 
